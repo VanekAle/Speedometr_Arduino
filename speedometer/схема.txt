@@ -1,0 +1,15 @@
+¬ывод	ќбозначение	ѕин Arduino Uno
+1	GND	        GND
+2	VCC	        5V
+3	VO	        GND
+4	RS	        12
+5	R/W	        GND
+6	E	        11
+7	DB0	        Ч
+8	DB1	        Ч
+9	DB2	        Ч
+10	DB3	        Ч
+11	DB4	        5
+12	DB5	        4
+13	DB6	        3
+14	DB7	        2
